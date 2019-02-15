@@ -20,7 +20,7 @@ var template = (
 var user = {
     name: "Joey",
     age: 33,
-    location: "Columbus" ;
+    location: "Columbus"
 
 };
 var templateTwo = (
